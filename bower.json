@@ -1,0 +1,22 @@
+{
+  "name": "Dia 4",
+  "homepage": "https://github.com/danielamorim098/Dia-4",
+  "authors": [
+    "danielamorim098 <danielamorim098@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "sweetalert": "^1.1.3"
+  }
+}
